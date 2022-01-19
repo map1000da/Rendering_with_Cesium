@@ -1,0 +1,17 @@
+{
+  "name": "cesium-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "type":"module",
+  "license": "ISC",
+  "dependencies": {
+    "cesium": "^1.89.0",
+    "satellite.js": "^4.1.3"
+  }
+}

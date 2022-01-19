@@ -1,0 +1,23 @@
+[{
+  "id" : "document",
+  "name" : "Nihon Sankei",
+  "version" : "1.0"
+}, {
+  "id" : "1",
+  "name" : "Matsusima",
+  "description" : "ここは松島です",
+  "position" : {
+    "epoch": "2022-01-12T09:59:11Z",
+    "cartographicDegrees": [0,141.064,38.366,100,
+    60, 145,38.366,100,
+    120, 150,38.366,100,
+    180, 155,38.366,100]
+  },
+  "point": {
+     "color": {
+         "rgba": [255, 0, 0, 255]
+     },
+     "pixelSize": 8
+   }
+ }
+]
